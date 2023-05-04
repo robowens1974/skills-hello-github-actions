@@ -21,7 +21,7 @@ _Create a GitHub Action and use it in a workflow._
 <details id=0>
 <summary><h2>Welcome</h2></summary>
 
-  https://cms.nhl.bamgrid.com/images/photos/326957192/1024x576/cut.jpg
+![LET'S GO KRAKEN](https://cms.nhl.bamgrid.com/images/photos/326957192/1024x576/cut.jpg)
   
 Automation is key for streamlining your work processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to supercharge your workflow.
 
